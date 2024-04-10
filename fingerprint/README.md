@@ -1,5 +1,5 @@
-
 Fingerprint Authentication Feature 🔒👆
+
 The fingerprint authentication feature enhances the security and convenience of your application by leveraging the biometric capabilities of modern smartphones. Here are the key details of this feature:
 
 Overview 🌟
