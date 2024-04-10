@@ -25,10 +25,12 @@ Implementation Details 🛠️ To implement fingerprint authentication in your a
 Conclusion 🎉 Fingerprint authentication is a powerful security feature that enhances the user experience and strengthens the security posture of your application. By leveraging the biometric capabilities of modern smartphones, you can provide users with a convenient and secure authentication method that aligns with industry best practices for identity verification.
 
 With the right implementation and attention to security best practices, fingerprint authentication can significantly improve the overall security and usability of your application, earning the trust and confidence of your users.
-![4](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/82e0111e-281b-4b6b-a59![2](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/1b73048e-e576-4d44-8fe6-7d60b5919c88)
-1-7511a97af3bc)
 
-![1](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/65296acc-6019-4cab-a729-cd345af897ef)
+![4](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/3824f4e4-1a19-4ae4-be48-8a294bc69a0f)
 
-![3](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/deb03a09-f0de-40e3-99dd-366ae36066c9)
 
+![1](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/c2716da0-d523-4b1f-8bb6-69118320fce0)
+
+![2](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/a722aa2f-8ec1-49eb-a7af-0b6e2d531587)
+
+![3](https://github.com/Vijayashanmuga/Flutterfingerprintauthentication/assets/113011990/575839c2-c8a6-4e53-8c32-4998c11a11e7)
